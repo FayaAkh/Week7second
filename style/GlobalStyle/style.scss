@@ -110,7 +110,7 @@ line-height: normal;
             line-height: normal;
             letter-spacing: 1.28%;
             max-width: 692px;
-            max-height: 156px;
+            min-height: 156px;
  }
  .form_button{
     @media (max-width:$sm){

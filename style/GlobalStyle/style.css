@@ -130,7 +130,7 @@ main .main_title .main_info h1 {
   line-height: normal;
   letter-spacing: 1.28%;
   max-width: 692px;
-  max-height: 156px;
+  min-height: 156px;
 }
 @media (max-width: 360px) {
   main .main_title .main_info h1 {
